@@ -1,8 +1,2 @@
-*~
-.project
-.cproject
-.settings/
-.cache
-build
-bin
-lib
+*.json
+*.pyc
